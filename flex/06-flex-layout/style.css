@@ -40,6 +40,7 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
 .header{
   display: flex;
   padding: 10px 20px;
@@ -49,9 +50,6 @@ input {
   margin-right: auto;
 }
 
-.right-links{
-  margin-left: auto;
-}
 .content{
   display: flex;
   flex-direction: column;
